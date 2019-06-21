@@ -4,3 +4,4 @@
 2) quick sort O(log   
 3) binary search        
  
+ 
